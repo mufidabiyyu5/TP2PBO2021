@@ -209,7 +209,7 @@ public class tp2 extends javax.swing.JFrame {
         jLabel7.setForeground(new java.awt.Color(0, 0, 0));
         jLabel7.setText("NIM : 1907996");
 
-        ImageIcon imageIcon = new javax.swing.ImageIcon(getClass().getResource("/mobil/me.jpg"));
+        ImageIcon imageIcon = new javax.swing.ImageIcon(getClass().getResource("/TP2PBO2021/me.jpg"));
         Image image = imageIcon.getImage();
         Image newImage = image.getScaledInstance(100, 140, java.awt.Image.SCALE_AREA_AVERAGING);
         imageIcon = new ImageIcon(newImage);
